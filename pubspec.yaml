@@ -19,6 +19,7 @@ dependencies:
   youtube_explode_dart:
     git:
       url: https://github.com/bigzhu/youtube_explode_dart
+      ref: master
 
 dev_dependencies:
   flutter_test:
